@@ -57,8 +57,5 @@ The project aims to derive actionable insights into workforce dynamics by analyz
 
 ---
 
-## Contact
-Feel free to reach out for collaboration or questions:  
-**Gurleen Singh**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/-gurleen-singh)
+
 
